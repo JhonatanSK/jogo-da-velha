@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    margin:0;
+    align-items: center;
+    justify-content: center;
+}
+
+.bloco{
+    background-color: lightgray;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.quadrados{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    font-size: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.velha{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
